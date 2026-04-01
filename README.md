@@ -4,7 +4,10 @@ Introducing the 1% Milk novelty keycap display keyboard. With a matching MX comp
 Happy 1% Milk day. To celebrate April 1st with a keyboard that should be a joke, but is 100% real.
 Well, at least 1% real.
 
-Print one out, to put on your desk. It comes in two flavours, original fridge store upopened key switch flavour, and let the world see what delcious switchs you are sipping on open edition.
+
+
+<img src="https://raw.githubusercontent.com/hotpinkbulb/1-Milk-Keyboard/refs/heads/main/images/1%25Milk-HotPinkBulb.jpg" alt="">
+Print one out, to put on your desk. It comes in two flavours, 'original fridge stored upopened key switch flavour', and 'let the world see what delcious switchs you are sipping on' open edition.
 
 The keycap parts are also compatible with any MX stem switch, so you can mount one up on your keyboard or macropad, if you don't want the stand alone.
 
@@ -12,7 +15,6 @@ Open to ideas or suggestions for putting a PCB inside, hit me up on the 40% disc
 
 Jake Pink
 
-<img src="https://raw.githubusercontent.com/hotpinkbulb/1-Milk-Keyboard/refs/heads/main/images/1%25Milk-HotPinkBulb.jpg" alt="">
 A homage to the 2% Keyboard organised by LostQuasar https://github.com/Spaceboards/SpaceboardsHardware/tree/master/Keyboards/2%25%20Milk
 Just under a license to let people print one for themselves.
 <img src="https://raw.githubusercontent.com/hotpinkbulb/1-Milk-Keyboard/refs/heads/main/images/1%25Milk-HotPinkBulb_1.jpg" width=50% alt=""><img src="https://raw.githubusercontent.com/hotpinkbulb/1-Milk-Keyboard/refs/heads/main/images/1%25Milk-HotPinkBulb_2.jpg" width=50% alt="">
