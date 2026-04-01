@@ -1,7 +1,7 @@
 # 1-Milk-Keyboard
 Introducing the 1% Milk novelty keycap display keyboard. With a matching MX compatible milk top key cap.
 
-![1%Milk-HotPinkBulb](images/1%Milk-HotPinkBulb.jpg)
+![mainimage](images/1%Milk-HotPinkBulb.jpg)
 
 Licensed under Attribution-NonCommercial-ShareAlike 4.0 International
 https://creativecommons.org/licenses/by-nc-sa/4.0/
