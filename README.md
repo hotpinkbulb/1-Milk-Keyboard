@@ -16,10 +16,11 @@ Open to ideas or suggestions for putting a PCB inside, hit me up on the 40% disc
 Jake Pink
 
 A homage to the 2% Keyboard organised by LostQuasar https://github.com/Spaceboards/SpaceboardsHardware/tree/master/Keyboards/2%25%20Milk
-Just under a license to let people print one for themselves.
 
 <img src="https://raw.githubusercontent.com/hotpinkbulb/1-Milk-Keyboard/refs/heads/main/images/1%25Milk-HotPinkBulb_1.jpg" width=50% alt=""><img src="https://raw.githubusercontent.com/hotpinkbulb/1-Milk-Keyboard/refs/heads/main/images/1%25Milk-HotPinkBulb_2.jpg" width=50% alt="">
 <br>
+Just under a license to let people print one for themselves.
+
 Licensed under Attribution-NonCommercial-ShareAlike 4.0 International
 https://creativecommons.org/licenses/by-nc-sa/4.0/
 
