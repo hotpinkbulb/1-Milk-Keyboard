@@ -8,7 +8,7 @@ Print one out, to put on your desk. It comes in two flavours, original fridge st
 
 The keycap parts are also compatible with any MX stem switch, so you can mount one up on your keyboard or macropad, if you don't want the stand alone.
 
-Open to ideas or suggestions for putting a PCB inside, hit me up on the 40% discord [https://discord.com/channels/527180441950617611/593528218749894666](https://discord.gg/40percent), or instagram @hotpinkbulb
+Open to ideas or suggestions for putting a PCB inside, hit me up on the 40% discord https://discord.gg/40percent, or instagram @hotpinkbulb
 
 Jake Pink
 
