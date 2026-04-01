@@ -2,9 +2,9 @@
 Introducing the 1% Milk novelty keycap display keyboard. With a matching MX compatible milk top key cap.
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="YOUR-DARKMODE-IMAGE">
- <source media="(prefers-color-scheme: light)" srcset="YOUR-LIGHTMODE-IMAGE">
- <img alt="YOUR-ALT-TEXT" src="YOUR-DEFAULT-IMAGE">
+ <source media="(prefers-color-scheme: dark)" srcset="images/1%Milk-HotPinkBulb.jpg">
+ <source media="(prefers-color-scheme: light)" srcset="images/1%Milk-HotPinkBulb.jpg">
+ <img alt="Open and closed 1% Milk cartons" src="YOUR-DEFAULT-IMAGE">
 </picture>
 
 Licensed under Attribution-NonCommercial-ShareAlike 4.0 International
